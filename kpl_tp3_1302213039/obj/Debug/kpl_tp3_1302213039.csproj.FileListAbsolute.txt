@@ -1,0 +1,11 @@
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\bin\Debug\kpl_tp3_1302213039.exe.config
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\bin\Debug\kpl_tp3_1302213039.exe
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\bin\Debug\kpl_tp3_1302213039.pdb
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.csproj.AssemblyReference.cache
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.csproj.SuggestedBindingRedirects.cache
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.Properties.Resources.resources
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.csproj.GenerateResource.cache
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.csproj.CoreCompileInputs.cache
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.exe
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.pdb
+C:\Telkom\Semester 4\KPL\kpl_tp3_1302213039\kpl_tp3_1302213039\obj\Debug\kpl_tp3_1302213039.Form1.resources
